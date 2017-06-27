@@ -1,0 +1,30 @@
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.exe.config
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.exe
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.pdb
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.Properties.Resources.resources
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.Servers.resources
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.csproj.GenerateResource.Cache
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.exe
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.pdb
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.csprojResolveAssemblyReference.cache
+c:\users\w.elahmar\documents\visual studio 2013\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.results.resources
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.exe.config
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.exe
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.pdb
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.exe
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.pdb
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.csprojResolveAssemblyReference.cache
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.Properties.Resources.resources
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.results.resources
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.Servers.resources
+C:\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.csproj.GenerateResource.Cache
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.exe.config
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.exe
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.pdb
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.exe
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\bin\Debug\Server Storage.pdb
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.csprojResolveAssemblyReference.cache
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.Properties.Resources.resources
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.results.resources
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server_Storage.Servers.resources
+\\It1\c$\Users\w.elahmar\Desktop\Projects\Server Storage\Server Storage\obj\Debug\Server Storage.csproj.GenerateResource.Cache
